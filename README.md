@@ -16,5 +16,7 @@ Everything is untested until now. The first prototypes are orderd. If the PCBs w
 
 # Pictures:
 ![Top](Board_3D_Top.jpg)
-![Bottom](Board_3D_Bottom.jpg)  
+![Bottom](Board_3D_Bottom.jpg)
+![Prototyp_Top](prototyp_top.jpg)
+![Prototyp_Bot](prototyp_bottom.jpg)
 
