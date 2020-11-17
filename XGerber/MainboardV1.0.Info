@@ -1,0 +1,35 @@
+CAM-Ausgabe für aktuelles Projekt MainboardV1.0.T3001
+Ausgabe am 15. Okt 2020, 14:09h
+Aktuelles Projekt erzeugt mit TARGET 30.2.0.7 discover
+Ausgabe erzeugt mit TARGET 3001! V30.2.0.7
+Aktuelles Projekt von TARGET NC-Edition: Kommerzielle Nutzung ist strafbar!
+LIEFERANSCHRIFT:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine: 19,6825 mm x 34,76625 mm
+
+Folgend die Beschreibung der erzeugten Dateien:
+
+MainboardV1.0.Top = 16 = Kupfer oben L1   ( *.Top )
+MainboardV1.0.Bot = 2 = Kupfer unten L2   ( *.Bot )
+MainboardV1.0.Tool = Bohrerliste
+MainboardV1.0.Drill = Durchkontaktierte Bohrungen
+MainboardV1.0.Outline = 23 = Platinen-Umriss   ( *.Outline )
+MainboardV1.0.StopTop = 18 = Lötstoppmaske oben   ( *.StopTop )
+MainboardV1.0.StopBot = 4 = Lötstoppmaske unten   ( *.StopBot )
+MainboardV1.0.PosiTop = 21 = Bestückungsdruck oben   ( *.PosiTop )
+MainboardV1.0.PosiBot = 7 = Bestückungsdruck unten   ( *.PosiBot )
+MainboardV1.0.PasteTop = 19 = Lötpaste oben   ( *.PasteTop )
+MainboardV1.0.PasteBot = 5 = Lötpaste unten   ( *.PasteBot )
+MainboardV1.0.Apr = TARGET 3001! Blendenliste
+MainboardV1.0.Whl = Eagle kompatible Blendenliste
+
+
+Achtung: Dünnste Bahn ist kleiner 0,150mm: (0,054 bei 14,605875 | 34,191875) auf Ebene 7
+
+Achtung: Dünnste Schrift ist kleiner 0,150mm: (0,104 bei 9,192 | 6,3345) auf Ebene 21

@@ -1,0 +1,35 @@
+CAM-Ausgabe für aktuelles Projekt RGB-ControllerV1.1.T3001
+Ausgabe am 17. Nov 2020, 21:05h
+Aktuelles Projekt erzeugt mit TARGET 30.2.0.7 discover
+Ausgabe erzeugt mit TARGET 3001! V30.2.0.7
+Aktuelles Projekt von TARGET NC-Edition: Kommerzielle Nutzung ist strafbar!
+LIEFERANSCHRIFT:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine: 19,6825 mm x 34,76625 mm
+
+Folgend die Beschreibung der erzeugten Dateien:
+
+RGB-ControllerV1.1.Top = 16 = Kupfer oben L1   ( *.Top )
+RGB-ControllerV1.1.Bot = 2 = Kupfer unten L2   ( *.Bot )
+RGB-ControllerV1.1.Tool = Bohrerliste
+RGB-ControllerV1.1.Drill = Durchkontaktierte Bohrungen
+RGB-ControllerV1.1.Outline = 23 = Platinen-Umriss   ( *.Outline )
+RGB-ControllerV1.1.StopTop = 18 = Lötstoppmaske oben   ( *.StopTop )
+RGB-ControllerV1.1.StopBot = 4 = Lötstoppmaske unten   ( *.StopBot )
+RGB-ControllerV1.1.PosiTop = 21 = Bestückungsdruck oben   ( *.PosiTop )
+RGB-ControllerV1.1.PosiBot = 7 = Bestückungsdruck unten   ( *.PosiBot )
+RGB-ControllerV1.1.PasteTop = 19 = Lötpaste oben   ( *.PasteTop )
+RGB-ControllerV1.1.PasteBot = 5 = Lötpaste unten   ( *.PasteBot )
+RGB-ControllerV1.1.Apr = TARGET 3001! Blendenliste
+RGB-ControllerV1.1.Whl = Eagle kompatible Blendenliste
+
+
+Achtung: Dünnste Bahn ist kleiner 0,150mm: (0,054 bei 14,605875 | 34,191875) auf Ebene 7
+
+Achtung: Dünnste Schrift ist kleiner 0,150mm: (0,104 bei 9,192 | 6,3345) auf Ebene 21
