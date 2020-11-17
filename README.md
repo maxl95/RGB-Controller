@@ -10,9 +10,9 @@ Everything is untested until now. The first prototypes are orderd. If the PCBs w
 - dimensions 20mm x 35mm
 
 # known bugs:
-- GPIO15 is not connected to GND so ESP won't startup
-- Solder Mask isn't on via's, so may be a risk of short circuit
-- Track width of RGB strip supply is a bit too small, could be more
+- GPIO15 is not connected to GND so ESP won't startup --> fixed
+- Solder Mask isn't on via's, so may be a risk of short circuit --> fixed
+- Track width of RGB strip supply is a bit too small, could be more --> fixed
 
 # Pictures:
 ![Top](Board_3D_Top.jpg)
