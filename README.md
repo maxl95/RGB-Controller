@@ -1,6 +1,8 @@
 # RGB-Controller
 This is a low cost and tasmota compatile RGB-Controller as an alternative to MagicHome devices.
-Everything is untested until now. The first prototypes are orderd. If the PCBs work I'll share the OSHPark link here.
+~~Everything is untested until now. The first prototypes are orderd.~~ If the PCBs work I'll share the OSHPark link here.
+
+The first pcbs are tested (see pics below). Everything works fine.
 
 # Some specs:
 - operating voltage 12V (becaus of the mini360)
