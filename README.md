@@ -15,8 +15,6 @@ Everything is untested until now. The first prototypes are orderd. If the PCBs w
 - Track width of RGB strip supply is a bit too small, could be more --> fixed
 
 # Pictures:
-![Top](Board_3D_Top.jpg)
-![Bottom](Board_3D_Bottom.jpg)
-![Prototyp_Top](prototyp_top.jpg)
-![Prototyp_Bot](prototyp_bottom.jpg)
-
+![Board3D](pictures/Board_3D_collage.jpg)
+![Prototyp](pictures/prototyp1_collage.jpg)
+![Collage](pictures/Collage.jpg)
