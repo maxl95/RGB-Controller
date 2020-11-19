@@ -1,6 +1,6 @@
 Pos.							URL
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-100µF 6,3V Tantal Kondensator 3528			https://de.aliexpress.com/item/4001241518347.html?spm=a2g0s.8937460.0.0.41b92e0eFXfjOQ
+47µF 16V Tantal Kondensator 3528 (B 16V47UF 476)	https://de.aliexpress.com/item/4001241518347.html?spm=a2g0s.8937460.0.0.41b92e0eFXfjOQ
 Step-Down Modul Mini360					https://de.aliexpress.com/item/4001080047766.html?spm=a2g0s.8937460.0.0.41b92e0eFXfjOQ
 AO3400 Mosfet SOT23					https://de.aliexpress.com/item/4001035147965.html?spm=a2g0s.8937460.0.0.41b92e0eFXfjOQ
 100k 0603 SMD Widerstand				https://de.aliexpress.com/item/32858644837.html?spm=a2g0s.8937460.0.0.41b92e0eFXfjOQ
