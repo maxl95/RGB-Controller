@@ -11,6 +11,9 @@ The first pcbs are tested (see pics below). Everything works fine.
 - price/piece around 5.60€
 - dimensions 20mm x 35mm
 
+# Tasmota template
+> {"NAME":"RGB-Controller DIY","GPIO":[1,1,1,1,1,417,1,1,416,418,1,1,1,1],"FLAG":0,"BASE":18}
+
 # known bugs:
 - ~~GPIO15 is not connected to GND so ESP won't startup~~ --> fixed
 - ~~Solder Mask isn't on via's, so may be a risk of short circuit~~ --> fixed
