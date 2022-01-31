@@ -3,7 +3,10 @@ This is a low cost and tasmota compatile RGB-Controller as an alternative to Mag
 ~~Everything is untested until now. The first prototypes are orderd.~~ 
 
 The first pcbs are tested (see pics below). Everything works fine.
-If you're looking for the RGBW version: [RGBW-Version](https://github.com/maxl95/RGBW-Controller)
+
+**This version is no longer maintained.** 
+I recommend the RGBW version: [RGBW-Version](https://github.com/maxl95/RGBW-Controller)
+
 
 # Some specs:
 - operating voltage 12V (becaus of the mini360)
